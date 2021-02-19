@@ -1,6 +1,6 @@
 # curso-git
 
-###_Principais comando aprendidos:_
+### _Principais comando aprendidos:_
 
 - git config --global user.name "nome de usuario"
 - git config --global user.email "email@email.com"
